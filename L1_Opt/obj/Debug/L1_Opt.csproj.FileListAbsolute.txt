@@ -1,0 +1,6 @@
+c:\users\red_ragnar\documents\visual studio 2015\Projects\L1_Opt\L1_Opt\bin\Debug\L1_Opt.exe.config
+c:\users\red_ragnar\documents\visual studio 2015\Projects\L1_Opt\L1_Opt\bin\Debug\L1_Opt.exe
+c:\users\red_ragnar\documents\visual studio 2015\Projects\L1_Opt\L1_Opt\bin\Debug\L1_Opt.pdb
+c:\users\red_ragnar\documents\visual studio 2015\Projects\L1_Opt\L1_Opt\obj\Debug\L1_Opt.csprojResolveAssemblyReference.cache
+c:\users\red_ragnar\documents\visual studio 2015\Projects\L1_Opt\L1_Opt\obj\Debug\L1_Opt.exe
+c:\users\red_ragnar\documents\visual studio 2015\Projects\L1_Opt\L1_Opt\obj\Debug\L1_Opt.pdb
